@@ -1,5 +1,5 @@
 <h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
-<h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.2.5 </h1>
+<h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 1.3.0 </h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
